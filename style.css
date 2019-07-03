@@ -1,0 +1,95 @@
+/*
+
+Css by faza.aul
+.
+
+Follow me :
+Github   @fazaio
+Codepen  @fazaio
+
+Since 02/07 2019
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Nunito:200,300,400&display=swap');
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+* {  
+  box-sizing: border-box;
+}
+
+body{
+	font-family: 'Nunito', sans-serif;
+	text-align: center;
+	background-color: #fff;
+}
+.fwi{
+	font-weight: 200;
+}
+.fwii{
+	font-weight: 300;
+}
+.fwiii{
+	font-weight: 400;
+}
+.bb{
+	border-bottom: 1px solid grey;
+}
+.b{
+	border: 1px solid black;
+	border-radius: 5px;
+}
+.mtii{
+	margin-top: 120px;
+}
+.mti{
+	margin-top: 20px;
+}
+footer {
+  position: fixed;
+  right:0;
+  bottom:0;
+  font-size: 12px;
+  padding: 10px;
+}
+.form{
+  margin: 210px auto 15px auto;
+  /*padding: 15px;*/
+  width: 50%;
+  min-width: 300px;
+  display: grid;
+  grid-template-columns: auto 100px;
+  /*border: 1px solid black;*/
+  /*border-radius: 10px;*/
+}
+.message{
+  margin: 22px auto 100px auto;
+  width: 50%;
+  min-width: 300px;
+  /*display: grid;*/
+  padding: 15px 10px;
+  text-align: left;
+  font-size: 13px;
+}
+input{
+	width: 100%;
+	border-radius: 10px;
+	border: 1px solid black;
+	padding: 5px;
+}
+.btn{
+	border-radius: 10px;
+  border: 1px solid black;
+  padding: 3px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.message-body{
+	padding: 0px 7px;
+	margin: 0px 0px 10px 0px;
+	border-left: 1px solid #e84393;
+	color: grey;
+}
