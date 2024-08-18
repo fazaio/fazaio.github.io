@@ -11,6 +11,17 @@ I am a Full Stack Developer and Internet of Things (IoT) enthusiast. I am seekin
 
 ---
 ### Work Experience
+**PRIEDS**  
+*RnD IoT Engineer* (April 2024 - Present)  
+- Develop robust IoT solutions using C++ for firmware development.
+- Conduct R&D on UHF RFID modules for advanced tracking and identification solutions.
+- Implement TCP, UDP, Websocket and UART TTL communication protocols for device data transmission.
+- Create GUIs with the .NET Framework for enhanced user interaction.
+- Perform reverse engineering of firmware to improve system functionality.
+- Analyze hex data buffers to ensure data integrity and gain insights.
+- Collaborate with cross-functional teams to integrate IoT technologies.
+- Stay updated with IoT trends to drive innovation and performance
+
 **Folkatech**  
 *Fullstack Developer* (March 2023 - December 2023)  
 - Collaborated with a cross-functional development team to build a government project.
