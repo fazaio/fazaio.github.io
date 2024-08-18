@@ -59,8 +59,8 @@ Server-side:
 
  - Programming Language: C#, C++, Javascript, Python, PHP, Bash, Typescript.
  - Framework or Library: .Net framework 4.8, .Net MAUI, NodeJs, ExpressJS, NestJS, FastifyJS, Flask, Django, Laravel, CI.
-- Protocol: HTTP, REST API, JWT Auth, Websocket, Mqtt, TCP, UDP.
-- 
+ - Protocol: HTTP, REST API, JWT Auth, Websocket, Mqtt, TCP, UDP.
+
 Database:
  - SQL: MySQL, SQLlite, PhpMyAdmin, MariaDB
  - No-SQL: Firebase, Firestore, MongoDB.
