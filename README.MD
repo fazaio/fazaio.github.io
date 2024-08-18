@@ -2,6 +2,7 @@
 Fullstack Engineer | IoT Engineer | AI Enthusiast
 
 { Malang, East Java, Indonesia } { 27 y.o }
+
 { Faza6028@gmail.com } { +628993774262 } { @fazaio/@fazaux } 
 
 ---
