@@ -1,3 +1,4 @@
+
 ### Faza Aulia Rosyadan
 Fullstack Engineer | IoT Engineer | AI Enthusiast
 
@@ -11,8 +12,17 @@ I am a Full Stack Developer and Internet of Things (IoT) enthusiast. I am seekin
 
 ---
 ### Work Experience
+**TUDI | AIDC Partner** 
+*RnD IoT Engineer* (July 2024 - Present)  
+- RFID System Design: Skilled in designing RFID solutions, including hardware selection (UHF), antenna setup, and environmental optimization for optimal read accuracy.
+- RFID Communication Protocols: Strong grasp of RFID standards (EPCglobal, ISO/IEC) and interfacing via TCP/IP, UART, I2C, SPI, and WebSocket.
+- Hands-on Hardware Experience: Experienced with RFID hardware like Impinj readers, NXP UCODE tags, and custom IoT devices.
+- Security and Data Protection: -Implemented robust security strategies end-to-end encryption, authentication, and access control for RFID systems.
+- End-to-End PoC Development: Developed proof-of-concept projects, handling 3rd party integrations, backend, and frontend systems.
+- Oversee Full-Stack Development: Managed development from low-level hardware integration to high-level application layers, ensuring seamless 3rd party integration.
+
 **PRIEDS**  
-*RnD IoT Engineer* (April 2024 - Present)  
+*RnD IoT Engineer* (April 2024 - July 2024)  
 - Develop robust IoT solutions using C++ for firmware development.
 - Conduct R&D on UHF RFID modules for advanced tracking and identification solutions.
 - Implement TCP, UDP, Websocket and UART TTL communication protocols for device data transmission.
@@ -21,6 +31,7 @@ I am a Full Stack Developer and Internet of Things (IoT) enthusiast. I am seekin
 - Analyze hex data buffers to ensure data integrity and gain insights.
 - Collaborate with cross-functional teams to integrate IoT technologies.
 - Stay updated with IoT trends to drive innovation and performance
+- Willing to TUDI (PT.HANO IDENTIK TEKNOLOGI) part of PRIEDS
 
 **Folkatech**  
 *Fullstack Developer* (March 2023 - December 2023)  
@@ -56,7 +67,6 @@ Client-side:
 - Protocol: HTTP, Axios, REST API, Websocket, Mqtt, Realtime Firebase, Serverless.
 
 Server-side:
-
  - Programming Language: C#, C++, Javascript, Python, PHP, Bash, Typescript.
  - Framework or Library: .Net framework 4.8, .Net MAUI, NodeJs, ExpressJS, NestJS, FastifyJS, Flask, Django, Laravel, CI.
  - Protocol: HTTP, REST API, JWT Auth, Websocket, Mqtt, TCP, UDP.
@@ -66,6 +76,7 @@ Database:
  - No-SQL: Firebase, Firestore, MongoDB.
  
 Internet Of Things:
+ - RFID : Zebra, Chainway (Low Level & Reverse Engineer)
  - Hardware: ESP Family, ESP32, ESP8266, Nodemcu, Attiny85, STM32, Arduino.
  - Protocol: Hex Buffer Protocol over TCP/UART/USB Serial, MQTT, Webscoket, WebHook, TCP, UDP, HTTP. 
 
