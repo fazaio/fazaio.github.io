@@ -1,6 +1,6 @@
 
 ### Faza Aulia Rosyadan
-Fullstack Engineer | IoT Engineer | AI Enthusiast
+Fullstack Engineer | IoT Engineer | RFID Engineer
 
 { Malang, East Java, Indonesia } { 27 y.o }
 
